@@ -1,16 +1,22 @@
-# offline_map_app
+🗺️ Offline Map App (Flutter)
 
-A new Flutter project.
+Полностью оффлайн-карта на Flutter с использованием локальных тайлов {z}/{x}/{y}.png.
+Проект подходит для навигации, трекинга, туристических и корпоративных приложений.
 
-## Getting Started
+🚀 Возможности
 
-This project is a starting point for a Flutter application.
+✅ Работа без интернета
+✅ Быстрая отрисовка карты
+✅ Поддержка локальных тайлов
+✅ Совместимость с Flutter 3.x
+✅ Минимальная и чистая архитектура
 
-A few resources to get you started if this is your first Flutter project:
+🧱 Используемые технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_map
+
+latlong2
+
+Offline tiles ({z}/{x}/{y}.png)
